@@ -8,5 +8,6 @@ namespace SXCreationMs
     public class Area
     {
         public string AreaCode { get; set; }
+        public string AreaName { get; set; }
     }
 }
