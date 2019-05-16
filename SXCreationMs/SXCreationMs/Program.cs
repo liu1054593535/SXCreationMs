@@ -9,7 +9,7 @@ namespace SXCreationMs
     {
         static void Main(string[] args)
         {
-            Console.Write("这是个master主分支");
+            Console.Write("这是master主分支");
         }
     }
 }
